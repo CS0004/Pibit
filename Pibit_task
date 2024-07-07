@@ -1,0 +1,27 @@
+{
+    "contact_information": {
+        "name": "",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "linkedin": "",
+        "github": "",
+        "other_links": []
+    },
+    "summary": "",
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "skills": [],
+    "certifications": [],
+    "seminars_workshops": [],
+    "co_curricular_activities": [],
+    "extra_curricular_activities": [],
+    "personal_interests": [],
+    "personal_details": {
+        "gender": "",
+        "marital_status": "",
+        "dob": "",
+        "languages": []
+    }
+}
